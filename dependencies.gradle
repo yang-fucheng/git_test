@@ -1,6 +1,6 @@
 dependencies {
 
-	def ob = 0.9.1
+	def ob = 0.123.1
 
 	implementation project(':subject01')
 	
